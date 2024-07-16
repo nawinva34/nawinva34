@@ -1,5 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nawin Lakanawiwat =========================================================================================================================================  Web Developer -------------  * 🌍  I'm based in Thailand/Hatyai * ✉️  You can contact me at [nawin.lkw@gmail.com](mailto:nawin.lkw@gmail.com) * 🚀  I'm currently working on [INET](http://www.inet.co.th)
-
 <a href="https://www.github.com/nawinva34" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nawinva34?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 ### Skills  
 
