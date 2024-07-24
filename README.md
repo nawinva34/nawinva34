@@ -23,7 +23,7 @@
 
 <br>
 <div align=center>
-    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawinva34&theme=default&layout=compact" />
+    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawinva34&theme=highcontrast&layout=compact" />
 </div><br></br>
   <img src="https://komarev.com/ghpvc/?username=nawinva34&color=blueviolet" />
 </div>
